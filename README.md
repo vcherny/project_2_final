@@ -10,9 +10,9 @@ In order to do this, several steps were taken. Firstly, I created a machine lear
 
 ## Key Steps
 1. Upload the required data:
-![alt text] https://github.com/vcherny/project_2_final/blob/main/Registered_datasets.PNG
+![alt text](https://github.com/vcherny/project_2_final/blob/main/Registered_datasets.PNG)
 2. Create, and run the experiment: 
-![alt text] https://github.com/vcherny/project_2_final/blob/main/Experiment_completed.PNG
+![alt text](https://github.com/vcherny/project_2_final/blob/main/Experiment_completed.PNG)
 
 
 ## A short description of how to improve the project in the future
