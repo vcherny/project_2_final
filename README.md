@@ -38,5 +38,6 @@ In order to do this, several steps were taken. Firstly, I created a machine lear
 4.3. The pipeline run can also be seein in Azure ML studio: 
 ![alt text](https://github.com/vcherny/project_2_final/blob/main/scheduled%20run.JPG)
 ## A short description of how to improve the project in the future
-
+The project can be improved by creating a more complete swagger documentation including utilization of the methods.
+Another aspect of improvement is a more complete validation of the endpoint results. Currently the  The provided version of endpoint.py contains only two sets of data. However, one can potentially reproduce the metrics results produced by the model within Automl if the corresponding dataset is provided. That can be done relatively easy by improving the endpoint.py script.
 # A link to te screencast vodeo on YouTube: https://youtu.be/PZa6OJJUFRc
