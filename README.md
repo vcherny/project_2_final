@@ -2,7 +2,7 @@
 
 ## An overview of the project
 The objective of this project is to create a machine learning model, deploy it to production and to allow the users to consume it.
-In order to do this, several steps were taken. Firstly, I created a machine learning model usn the AutoML. The model was trained and tested on the
+In order to do this, several steps were taken which are described below.
 
 ## An architectural Diagram
 
