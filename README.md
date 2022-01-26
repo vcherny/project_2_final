@@ -6,7 +6,7 @@ In order to do this, several steps were taken. Firstly, I created a machine lear
 
 ## An architectural Diagram
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/vcherny/project_2_final/blob/main/Architectural%20diagram.JPG)
 
 ## Key Steps
 # 1. Create a new AutoML run
