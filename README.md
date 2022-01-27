@@ -3,8 +3,11 @@
 # An overview of the project
 The objective of this project is to create a machine learning model, deploy it to production and to allow the users to consume it.
 This is done in Azure Machine Learning studio and AutoML is used for this puprpose. The latter means that there will be a search of the best model in the space of hyperparemeters. The best model based on the chosen performance metric (in this case AUC) can then be deployed.
+
 In order to consume the model a Representational State Transfer (REST) endpoint is employed. This is an endpoint which supports sets of HTTP operations. With this in hand, one can interact with the model, e.g. send the test data and receive responses.
+
 Even though the process of retraining and deploying the model is not extremely time consuming, it is better to have the process automated. This is possible using the pipeline. A simple example is if a model needs to be retrained periodically with the data. With a pipeline created in Azure Machine Learning studio one does not need to allocate any human capacity - the pipeline will take care of the whole process. In this project the pipeline was also created.
+
 In the below sections the details of the processes summarized above are presented.
 
 # An architectural Diagram
